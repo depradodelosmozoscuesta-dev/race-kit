@@ -4,6 +4,7 @@
 ./_catalog/fullbody-flat-elf-f-torso.png
 ./_catalog/fullbody-flat-hobbit-f-torso.png
 ./_catalog/fullbody-flat-human-north-f-torso.png
+./_catalog/fullbody-flat-orc-f-torso.png
 ./_catalog/fullbody-orc-f-worn.png
 ./_catalog/preview-batch-sep13aa.png
 ./_catalog/preview-batch-sep13ab.png
