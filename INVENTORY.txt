@@ -1,9 +1,16 @@
+./_catalog/flat-refs/flat-elf-lying.png
 ./_catalog/flat-refs/flat-elf-side.png
 ./_catalog/flat-refs/flat-elf-sternum.png
+./_catalog/flat-refs/flat-hair-elf.png
+./_catalog/flat-refs/flat-hair-hobbit.png
+./_catalog/flat-refs/flat-hair-lizard.png
+./_catalog/flat-refs/flat-hair-olive.png
+./_catalog/flat-refs/flat-hair-sheep.png
 ./_catalog/flat-refs/flat-hobbit-full.png
 ./_catalog/flat-refs/flat-lizard-side.png
 ./_catalog/flat-refs/flat-north-arms-up.png
 ./_catalog/flat-refs/flat-orc-close.png
+./_catalog/flat-refs/flat-sheep-front.png
 ./_catalog/flat-refs/flat-south-hips.png
 ./_catalog/fullbody-elf-f-a-worn.png
 ./_catalog/fullbody-elf-f-b-worn.png
@@ -52,6 +59,7 @@
 ./_catalog/preview-batch-sep13be.png
 ./_catalog/preview-batch-sep13bf.png
 ./_catalog/preview-batch-sep13bg-flat.png
+./_catalog/preview-batch-sep13bh-hair.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
 ./_catalog/preview-batch-sep13e.png
