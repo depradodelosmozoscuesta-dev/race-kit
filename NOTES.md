@@ -12,3 +12,4 @@
 - 2026-09-13i: human north M a head (reprocess new source); human south F a head (reprocess new source); hobbit F a clothed torso. rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
 - 2026-09-13j: lizardfolk M a clothed torso (green scales via rembg alpha + original RGB); sheepfolk F a clothed torso. rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
 - 2026-09-13k: orc M a head (reprocess new source; green/olive via rembg alpha + original RGB); elf M a foot-heels L/R (mirror; flat leather shoe); elf F a foot-heels L/R (mirror; reprocess). rembg u2net alpha + original RGB composite. eje largo 512. RGBA. Elf F heel protrusion artifact (ear-like flesh spike at heel) looks bad after cut; noted but still saved.
+- 2026-09-13m: human south F a clothed torso; human north M a clothed torso; sheepfolk M a clothed torso. rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
