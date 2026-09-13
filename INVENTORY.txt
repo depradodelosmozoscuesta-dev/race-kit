@@ -5,6 +5,7 @@
 ./_catalog/preview-batch-sep13f.png
 ./_catalog/preview-batch-sep13g.png
 ./_catalog/preview-batch-sep13h.png
+./_catalog/preview-batch-sep13i.png
 ./_catalog/preview-elves-female-a.png
 ./_catalog/preview-feet-proportion.png
 ./elves/female/a/clothed/calf-L.png
@@ -45,6 +46,7 @@
 ./elves/male/a/clothed/upperarm-L.png
 ./elves/male/a/clothed/upperarm-R.png
 ./hobbits/female/a/clothed/head.png
+./hobbits/female/a/clothed/torso.png
 ./hobbits/male/a/clothed/head.png
 ./hobbits/male/a/clothed/torso.png
 ./humans-north/female/a/clothed/head.png
