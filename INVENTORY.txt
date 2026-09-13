@@ -13,6 +13,7 @@
 ./_catalog/preview-batch-sep13n.png
 ./_catalog/preview-batch-sep13o.png
 ./_catalog/preview-batch-sep13p.png
+./_catalog/preview-batch-sep13q.png
 ./_catalog/preview-batch-sep13r.png
 ./_catalog/preview-elves-female-a.png
 ./_catalog/preview-feet-proportion.png
@@ -66,6 +67,8 @@
 ./hobbits/male/a/clothed/forearm-R.png
 ./hobbits/male/a/clothed/head.png
 ./hobbits/male/a/clothed/torso.png
+./hobbits/male/a/clothed/upperarm-L.png
+./hobbits/male/a/clothed/upperarm-R.png
 ./humans-north/female/a/clothed/hand-L.png
 ./humans-north/female/a/clothed/hand-R.png
 ./humans-north/female/a/clothed/head.png
@@ -92,12 +95,16 @@
 ./orcs/female/a/clothed/forearm-R.png
 ./orcs/female/a/clothed/head.png
 ./orcs/female/a/clothed/torso.png
+./orcs/female/a/clothed/upperarm-L.png
+./orcs/female/a/clothed/upperarm-R.png
 ./orcs/male/a/clothed/calf-L.png
 ./orcs/male/a/clothed/calf-R.png
 ./orcs/male/a/clothed/head.png
 ./orcs/male/a/clothed/torso.png
 ./orcs/male/a/clothed/upperarm-L.png
 ./orcs/male/a/clothed/upperarm-R.png
+./sheepfolk/female/a/clothed/hand-L.png
+./sheepfolk/female/a/clothed/hand-R.png
 ./sheepfolk/female/a/clothed/head.png
 ./sheepfolk/female/a/clothed/torso.png
 ./sheepfolk/male/a/clothed/head.png
