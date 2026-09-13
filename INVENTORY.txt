@@ -154,6 +154,8 @@
 ./hobbits/female/a/clothed/calf-R.png
 ./hobbits/female/a/clothed/foot-bare-L.png
 ./hobbits/female/a/clothed/foot-bare-R.png
+./hobbits/female/a/clothed/foot-heels-L.png
+./hobbits/female/a/clothed/foot-heels-R.png
 ./hobbits/female/a/clothed/forearm-L.png
 ./hobbits/female/a/clothed/forearm-R.png
 ./hobbits/female/a/clothed/hand-L.png
@@ -196,6 +198,8 @@
 ./hobbits/male/a/clothed/calf-R.png
 ./hobbits/male/a/clothed/foot-bare-L.png
 ./hobbits/male/a/clothed/foot-bare-R.png
+./hobbits/male/a/clothed/foot-heels-L.png
+./hobbits/male/a/clothed/foot-heels-R.png
 ./hobbits/male/a/clothed/forearm-L.png
 ./hobbits/male/a/clothed/forearm-R.png
 ./hobbits/male/a/clothed/hand-L.png
@@ -238,6 +242,8 @@
 ./humans-north/female/a/clothed/calf-R.png
 ./humans-north/female/a/clothed/foot-bare-L.png
 ./humans-north/female/a/clothed/foot-bare-R.png
+./humans-north/female/a/clothed/foot-heels-L.png
+./humans-north/female/a/clothed/foot-heels-R.png
 ./humans-north/female/a/clothed/forearm-L.png
 ./humans-north/female/a/clothed/forearm-R.png
 ./humans-north/female/a/clothed/hand-L.png
@@ -280,6 +286,8 @@
 ./humans-north/male/a/clothed/calf-R.png
 ./humans-north/male/a/clothed/foot-bare-L.png
 ./humans-north/male/a/clothed/foot-bare-R.png
+./humans-north/male/a/clothed/foot-heels-L.png
+./humans-north/male/a/clothed/foot-heels-R.png
 ./humans-north/male/a/clothed/forearm-L.png
 ./humans-north/male/a/clothed/forearm-R.png
 ./humans-north/male/a/clothed/hand-L.png
@@ -322,6 +330,8 @@
 ./humans-south/female/a/clothed/calf-R.png
 ./humans-south/female/a/clothed/foot-bare-L.png
 ./humans-south/female/a/clothed/foot-bare-R.png
+./humans-south/female/a/clothed/foot-heels-L.png
+./humans-south/female/a/clothed/foot-heels-R.png
 ./humans-south/female/a/clothed/forearm-L.png
 ./humans-south/female/a/clothed/forearm-R.png
 ./humans-south/female/a/clothed/hand-L.png
@@ -364,6 +374,8 @@
 ./humans-south/male/a/clothed/calf-R.png
 ./humans-south/male/a/clothed/foot-bare-L.png
 ./humans-south/male/a/clothed/foot-bare-R.png
+./humans-south/male/a/clothed/foot-heels-L.png
+./humans-south/male/a/clothed/foot-heels-R.png
 ./humans-south/male/a/clothed/forearm-L.png
 ./humans-south/male/a/clothed/forearm-R.png
 ./humans-south/male/a/clothed/hand-L.png
@@ -406,6 +418,8 @@
 ./lizardfolk/female/a/clothed/calf-R.png
 ./lizardfolk/female/a/clothed/foot-bare-L.png
 ./lizardfolk/female/a/clothed/foot-bare-R.png
+./lizardfolk/female/a/clothed/foot-heels-L.png
+./lizardfolk/female/a/clothed/foot-heels-R.png
 ./lizardfolk/female/a/clothed/forearm-L.png
 ./lizardfolk/female/a/clothed/forearm-R.png
 ./lizardfolk/female/a/clothed/hand-L.png
@@ -448,6 +462,8 @@
 ./lizardfolk/male/a/clothed/calf-R.png
 ./lizardfolk/male/a/clothed/foot-bare-L.png
 ./lizardfolk/male/a/clothed/foot-bare-R.png
+./lizardfolk/male/a/clothed/foot-heels-L.png
+./lizardfolk/male/a/clothed/foot-heels-R.png
 ./lizardfolk/male/a/clothed/forearm-L.png
 ./lizardfolk/male/a/clothed/forearm-R.png
 ./lizardfolk/male/a/clothed/hand-L.png
@@ -490,6 +506,8 @@
 ./orcs/female/a/clothed/calf-R.png
 ./orcs/female/a/clothed/foot-bare-L.png
 ./orcs/female/a/clothed/foot-bare-R.png
+./orcs/female/a/clothed/foot-heels-L.png
+./orcs/female/a/clothed/foot-heels-R.png
 ./orcs/female/a/clothed/forearm-L.png
 ./orcs/female/a/clothed/forearm-R.png
 ./orcs/female/a/clothed/hand-L.png
@@ -532,6 +550,8 @@
 ./orcs/male/a/clothed/calf-R.png
 ./orcs/male/a/clothed/foot-bare-L.png
 ./orcs/male/a/clothed/foot-bare-R.png
+./orcs/male/a/clothed/foot-heels-L.png
+./orcs/male/a/clothed/foot-heels-R.png
 ./orcs/male/a/clothed/forearm-L.png
 ./orcs/male/a/clothed/forearm-R.png
 ./orcs/male/a/clothed/hand-L.png
@@ -574,6 +594,8 @@
 ./sheepfolk/female/a/clothed/calf-R.png
 ./sheepfolk/female/a/clothed/foot-bare-L.png
 ./sheepfolk/female/a/clothed/foot-bare-R.png
+./sheepfolk/female/a/clothed/foot-heels-L.png
+./sheepfolk/female/a/clothed/foot-heels-R.png
 ./sheepfolk/female/a/clothed/forearm-L.png
 ./sheepfolk/female/a/clothed/forearm-R.png
 ./sheepfolk/female/a/clothed/hand-L.png
@@ -616,6 +638,8 @@
 ./sheepfolk/male/a/clothed/calf-R.png
 ./sheepfolk/male/a/clothed/foot-bare-L.png
 ./sheepfolk/male/a/clothed/foot-bare-R.png
+./sheepfolk/male/a/clothed/foot-heels-L.png
+./sheepfolk/male/a/clothed/foot-heels-R.png
 ./sheepfolk/male/a/clothed/forearm-L.png
 ./sheepfolk/male/a/clothed/forearm-R.png
 ./sheepfolk/male/a/clothed/hand-L.png
