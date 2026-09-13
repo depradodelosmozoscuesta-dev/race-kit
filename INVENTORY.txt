@@ -2,6 +2,7 @@
 ./_catalog/preview-batch-sep13ab.png
 ./_catalog/preview-batch-sep13ac.png
 ./_catalog/preview-batch-sep13ad.png
+./_catalog/preview-batch-sep13ae.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -123,6 +124,8 @@
 ./humans-south/female/a/clothed/foot-bare-R.png
 ./humans-south/female/a/clothed/forearm-L.png
 ./humans-south/female/a/clothed/forearm-R.png
+./humans-south/female/a/clothed/hand-L.png
+./humans-south/female/a/clothed/hand-R.png
 ./humans-south/female/a/clothed/head.png
 ./humans-south/female/a/clothed/thigh-L.png
 ./humans-south/female/a/clothed/thigh-R.png
@@ -138,14 +141,20 @@
 ./humans-south/male/a/clothed/hand-L.png
 ./humans-south/male/a/clothed/hand-R.png
 ./humans-south/male/a/clothed/head.png
+./humans-south/male/a/clothed/thigh-L.png
+./humans-south/male/a/clothed/thigh-R.png
 ./humans-south/male/a/clothed/torso.png
 ./humans-south/male/a/clothed/upperarm-L.png
 ./humans-south/male/a/clothed/upperarm-R.png
 ./lizardfolk/female/a/clothed/calf-L.png
 ./lizardfolk/female/a/clothed/calf-R.png
+./lizardfolk/female/a/clothed/forearm-L.png
+./lizardfolk/female/a/clothed/forearm-R.png
 ./lizardfolk/female/a/clothed/hand-L.png
 ./lizardfolk/female/a/clothed/hand-R.png
 ./lizardfolk/female/a/clothed/head.png
+./lizardfolk/female/a/clothed/thigh-L.png
+./lizardfolk/female/a/clothed/thigh-R.png
 ./lizardfolk/female/a/clothed/torso.png
 ./lizardfolk/female/a/clothed/upperarm-L.png
 ./lizardfolk/female/a/clothed/upperarm-R.png
@@ -206,4 +215,8 @@
 ./sheepfolk/male/a/clothed/hand-L.png
 ./sheepfolk/male/a/clothed/hand-R.png
 ./sheepfolk/male/a/clothed/head.png
+./sheepfolk/male/a/clothed/thigh-L.png
+./sheepfolk/male/a/clothed/thigh-R.png
 ./sheepfolk/male/a/clothed/torso.png
+./sheepfolk/male/a/clothed/upperarm-L.png
+./sheepfolk/male/a/clothed/upperarm-R.png
