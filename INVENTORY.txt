@@ -17,6 +17,7 @@
 ./_catalog/preview-batch-sep13aq.png
 ./_catalog/preview-batch-sep13ar.png
 ./_catalog/preview-batch-sep13as.png
+./_catalog/preview-batch-sep13at.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -120,6 +121,8 @@
 ./hobbits/female/b/clothed/hand-L.png
 ./hobbits/female/b/clothed/hand-R.png
 ./hobbits/female/b/clothed/head.png
+./hobbits/female/b/clothed/thigh-L.png
+./hobbits/female/b/clothed/thigh-R.png
 ./hobbits/female/b/clothed/torso.png
 ./hobbits/female/b/clothed/upperarm-L.png
 ./hobbits/female/b/clothed/upperarm-R.png
@@ -142,6 +145,8 @@
 ./hobbits/male/b/clothed/hand-L.png
 ./hobbits/male/b/clothed/hand-R.png
 ./hobbits/male/b/clothed/head.png
+./hobbits/male/b/clothed/thigh-L.png
+./hobbits/male/b/clothed/thigh-R.png
 ./hobbits/male/b/clothed/torso.png
 ./hobbits/male/b/clothed/upperarm-L.png
 ./hobbits/male/b/clothed/upperarm-R.png
@@ -164,6 +169,8 @@
 ./humans-north/female/b/clothed/hand-L.png
 ./humans-north/female/b/clothed/hand-R.png
 ./humans-north/female/b/clothed/head.png
+./humans-north/female/b/clothed/thigh-L.png
+./humans-north/female/b/clothed/thigh-R.png
 ./humans-north/female/b/clothed/torso.png
 ./humans-north/female/b/clothed/upperarm-L.png
 ./humans-north/female/b/clothed/upperarm-R.png
@@ -186,6 +193,8 @@
 ./humans-north/male/b/clothed/hand-L.png
 ./humans-north/male/b/clothed/hand-R.png
 ./humans-north/male/b/clothed/head.png
+./humans-north/male/b/clothed/thigh-L.png
+./humans-north/male/b/clothed/thigh-R.png
 ./humans-north/male/b/clothed/torso.png
 ./humans-north/male/b/clothed/upperarm-L.png
 ./humans-north/male/b/clothed/upperarm-R.png
@@ -274,6 +283,8 @@
 ./lizardfolk/male/b/clothed/hand-L.png
 ./lizardfolk/male/b/clothed/hand-R.png
 ./lizardfolk/male/b/clothed/head.png
+./lizardfolk/male/b/clothed/thigh-L.png
+./lizardfolk/male/b/clothed/thigh-R.png
 ./lizardfolk/male/b/clothed/torso.png
 ./lizardfolk/male/b/clothed/upperarm-L.png
 ./lizardfolk/male/b/clothed/upperarm-R.png
