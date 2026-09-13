@@ -9,6 +9,7 @@
 ./_catalog/preview-batch-sep13j.png
 ./_catalog/preview-batch-sep13k.png
 ./_catalog/preview-batch-sep13m.png
+./_catalog/preview-batch-sep13n.png
 ./_catalog/preview-elves-female-a.png
 ./_catalog/preview-feet-proportion.png
 ./elves/female/a/clothed/calf-L.png
@@ -63,6 +64,7 @@
 ./humans-south/male/a/clothed/head.png
 ./humans-south/male/a/clothed/torso.png
 ./lizardfolk/female/a/clothed/head.png
+./lizardfolk/female/a/clothed/torso.png
 ./lizardfolk/male/a/clothed/head.png
 ./lizardfolk/male/a/clothed/torso.png
 ./orcs/female/a/clothed/head.png
