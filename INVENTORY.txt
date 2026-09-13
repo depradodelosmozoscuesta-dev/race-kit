@@ -1,3 +1,4 @@
+./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-elves-female-a.png
 ./_catalog/preview-feet-proportion.png
 ./elves/female/a/clothed/calf-L.png
@@ -23,9 +24,14 @@
 ./elves/female/a/underwear/thigh-L.png
 ./elves/female/a/underwear/thigh-R.png
 ./elves/female/a/underwear/torso.png
+./elves/female/b/clothed/head.png
+./elves/male/a/clothed/head.png
 ./hobbits/female/a/clothed/head.png
+./hobbits/male/a/clothed/head.png
 ./humans-north/male/a/clothed/head.png
 ./humans-south/female/a/clothed/head.png
 ./lizardfolk/male/a/clothed/head.png
 ./orcs/female/a/clothed/head.png
 ./orcs/male/a/clothed/head.png
+./orcs/male/a/clothed/torso.png
+./sheepfolk/female/a/clothed/head.png
