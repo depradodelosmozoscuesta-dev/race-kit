@@ -21,6 +21,7 @@
 ./_catalog/preview-batch-sep13au.png
 ./_catalog/preview-batch-sep13av.png
 ./_catalog/preview-batch-sep13aw.png
+./_catalog/preview-batch-sep13ax.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -281,6 +282,8 @@
 ./lizardfolk/female/a/clothed/torso.png
 ./lizardfolk/female/a/clothed/upperarm-L.png
 ./lizardfolk/female/a/clothed/upperarm-R.png
+./lizardfolk/female/b/clothed/calf-L.png
+./lizardfolk/female/b/clothed/calf-R.png
 ./lizardfolk/female/b/clothed/forearm-L.png
 ./lizardfolk/female/b/clothed/forearm-R.png
 ./lizardfolk/female/b/clothed/hand-L.png
@@ -383,6 +386,8 @@
 ./sheepfolk/female/a/clothed/torso.png
 ./sheepfolk/female/a/clothed/upperarm-L.png
 ./sheepfolk/female/a/clothed/upperarm-R.png
+./sheepfolk/female/b/clothed/calf-L.png
+./sheepfolk/female/b/clothed/calf-R.png
 ./sheepfolk/female/b/clothed/hand-L.png
 ./sheepfolk/female/b/clothed/hand-R.png
 ./sheepfolk/female/b/clothed/head.png
@@ -405,6 +410,8 @@
 ./sheepfolk/male/a/clothed/torso.png
 ./sheepfolk/male/a/clothed/upperarm-L.png
 ./sheepfolk/male/a/clothed/upperarm-R.png
+./sheepfolk/male/b/clothed/calf-L.png
+./sheepfolk/male/b/clothed/calf-R.png
 ./sheepfolk/male/b/clothed/forearm-L.png
 ./sheepfolk/male/b/clothed/forearm-R.png
 ./sheepfolk/male/b/clothed/hand-L.png
