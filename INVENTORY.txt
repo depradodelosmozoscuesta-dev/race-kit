@@ -1,6 +1,9 @@
 ./_catalog/fullbody-elf-f-a-worn.png
 ./_catalog/fullbody-elf-f-b-worn.png
 ./_catalog/fullbody-elf-f-gauze-worn.png
+./_catalog/fullbody-flat-elf-f-torso.png
+./_catalog/fullbody-flat-hobbit-f-torso.png
+./_catalog/fullbody-flat-human-north-f-torso.png
 ./_catalog/fullbody-orc-f-worn.png
 ./_catalog/preview-batch-sep13aa.png
 ./_catalog/preview-batch-sep13ab.png
@@ -30,7 +33,9 @@
 ./_catalog/preview-batch-sep13az.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13ba.png
+./_catalog/preview-batch-sep13bb-sheep-thigh.png
 ./_catalog/preview-batch-sep13bd.png
+./_catalog/preview-batch-sep13be.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
 ./_catalog/preview-batch-sep13e.png
@@ -748,6 +753,8 @@
 ./sheepfolk/male/a/underwear/hand-L.png
 ./sheepfolk/male/a/underwear/hand-R.png
 ./sheepfolk/male/a/underwear/head.png
+./sheepfolk/male/a/underwear/thigh-L.png
+./sheepfolk/male/a/underwear/thigh-R.png
 ./sheepfolk/male/a/underwear/torso.png
 ./sheepfolk/male/a/underwear/upperarm-L.png
 ./sheepfolk/male/a/underwear/upperarm-R.png
