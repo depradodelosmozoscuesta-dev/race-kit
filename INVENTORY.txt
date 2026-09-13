@@ -8,6 +8,7 @@
 ./_catalog/preview-batch-sep13ah.png
 ./_catalog/preview-batch-sep13ai.png
 ./_catalog/preview-batch-sep13aj.png
+./_catalog/preview-batch-sep13ak.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -95,6 +96,7 @@
 ./hobbits/female/a/clothed/upperarm-L.png
 ./hobbits/female/a/clothed/upperarm-R.png
 ./hobbits/female/b/clothed/head.png
+./hobbits/female/b/clothed/torso.png
 ./hobbits/male/a/clothed/calf-L.png
 ./hobbits/male/a/clothed/calf-R.png
 ./hobbits/male/a/clothed/foot-bare-L.png
@@ -126,6 +128,7 @@
 ./humans-north/female/a/clothed/upperarm-L.png
 ./humans-north/female/a/clothed/upperarm-R.png
 ./humans-north/female/b/clothed/head.png
+./humans-north/female/b/clothed/torso.png
 ./humans-north/male/a/clothed/calf-L.png
 ./humans-north/male/a/clothed/calf-R.png
 ./humans-north/male/a/clothed/foot-bare-L.png
@@ -141,6 +144,7 @@
 ./humans-north/male/a/clothed/upperarm-L.png
 ./humans-north/male/a/clothed/upperarm-R.png
 ./humans-north/male/b/clothed/head.png
+./humans-north/male/b/clothed/torso.png
 ./humans-south/female/a/clothed/calf-L.png
 ./humans-south/female/a/clothed/calf-R.png
 ./humans-south/female/a/clothed/foot-bare-L.png
@@ -172,6 +176,7 @@
 ./humans-south/male/a/clothed/upperarm-L.png
 ./humans-south/male/a/clothed/upperarm-R.png
 ./humans-south/male/b/clothed/head.png
+./humans-south/male/b/clothed/torso.png
 ./lizardfolk/female/a/clothed/calf-L.png
 ./lizardfolk/female/a/clothed/calf-R.png
 ./lizardfolk/female/a/clothed/foot-bare-L.png
@@ -187,6 +192,7 @@
 ./lizardfolk/female/a/clothed/upperarm-L.png
 ./lizardfolk/female/a/clothed/upperarm-R.png
 ./lizardfolk/female/b/clothed/head.png
+./lizardfolk/female/b/clothed/torso.png
 ./lizardfolk/male/a/clothed/calf-L.png
 ./lizardfolk/male/a/clothed/calf-R.png
 ./lizardfolk/male/a/clothed/foot-bare-L.png
@@ -202,6 +208,7 @@
 ./lizardfolk/male/a/clothed/upperarm-L.png
 ./lizardfolk/male/a/clothed/upperarm-R.png
 ./lizardfolk/male/b/clothed/head.png
+./lizardfolk/male/b/clothed/torso.png
 ./orcs/female/a/clothed/calf-L.png
 ./orcs/female/a/clothed/calf-R.png
 ./orcs/female/a/clothed/foot-bare-L.png
@@ -233,6 +240,7 @@
 ./orcs/male/a/clothed/upperarm-L.png
 ./orcs/male/a/clothed/upperarm-R.png
 ./orcs/male/b/clothed/head.png
+./orcs/male/b/clothed/torso.png
 ./sheepfolk/female/a/clothed/calf-L.png
 ./sheepfolk/female/a/clothed/calf-R.png
 ./sheepfolk/female/a/clothed/foot-bare-L.png
@@ -248,6 +256,7 @@
 ./sheepfolk/female/a/clothed/upperarm-L.png
 ./sheepfolk/female/a/clothed/upperarm-R.png
 ./sheepfolk/female/b/clothed/head.png
+./sheepfolk/female/b/clothed/torso.png
 ./sheepfolk/male/a/clothed/calf-L.png
 ./sheepfolk/male/a/clothed/calf-R.png
 ./sheepfolk/male/a/clothed/foot-bare-L.png
@@ -263,3 +272,4 @@
 ./sheepfolk/male/a/clothed/upperarm-L.png
 ./sheepfolk/male/a/clothed/upperarm-R.png
 ./sheepfolk/male/b/clothed/head.png
+./sheepfolk/male/b/clothed/torso.png
