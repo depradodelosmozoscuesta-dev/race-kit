@@ -1,3 +1,4 @@
+./_catalog/preview-batch-sep13aa.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -89,6 +90,8 @@
 ./hobbits/male/a/clothed/upperarm-R.png
 ./humans-north/female/a/clothed/calf-L.png
 ./humans-north/female/a/clothed/calf-R.png
+./humans-north/female/a/clothed/foot-bare-L.png
+./humans-north/female/a/clothed/foot-bare-R.png
 ./humans-north/female/a/clothed/hand-L.png
 ./humans-north/female/a/clothed/hand-R.png
 ./humans-north/female/a/clothed/head.png
@@ -153,6 +156,8 @@
 ./sheepfolk/female/a/clothed/hand-R.png
 ./sheepfolk/female/a/clothed/head.png
 ./sheepfolk/female/a/clothed/torso.png
+./sheepfolk/male/a/clothed/calf-L.png
+./sheepfolk/male/a/clothed/calf-R.png
 ./sheepfolk/male/a/clothed/forearm-L.png
 ./sheepfolk/male/a/clothed/forearm-R.png
 ./sheepfolk/male/a/clothed/hand-L.png
