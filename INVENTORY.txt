@@ -1,6 +1,7 @@
 ./_catalog/preview-batch-sep13aa.png
 ./_catalog/preview-batch-sep13ab.png
 ./_catalog/preview-batch-sep13ac.png
+./_catalog/preview-batch-sep13ad.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -79,6 +80,8 @@
 ./hobbits/female/a/clothed/hand-L.png
 ./hobbits/female/a/clothed/hand-R.png
 ./hobbits/female/a/clothed/head.png
+./hobbits/female/a/clothed/thigh-L.png
+./hobbits/female/a/clothed/thigh-R.png
 ./hobbits/female/a/clothed/torso.png
 ./hobbits/female/a/clothed/upperarm-L.png
 ./hobbits/female/a/clothed/upperarm-R.png
@@ -103,6 +106,8 @@
 ./humans-north/female/a/clothed/hand-L.png
 ./humans-north/female/a/clothed/hand-R.png
 ./humans-north/female/a/clothed/head.png
+./humans-north/female/a/clothed/thigh-L.png
+./humans-north/female/a/clothed/thigh-R.png
 ./humans-north/female/a/clothed/torso.png
 ./humans-north/male/a/clothed/foot-bare-L.png
 ./humans-north/male/a/clothed/foot-bare-R.png
@@ -119,6 +124,8 @@
 ./humans-south/female/a/clothed/forearm-L.png
 ./humans-south/female/a/clothed/forearm-R.png
 ./humans-south/female/a/clothed/head.png
+./humans-south/female/a/clothed/thigh-L.png
+./humans-south/female/a/clothed/thigh-R.png
 ./humans-south/female/a/clothed/torso.png
 ./humans-south/female/a/clothed/upperarm-L.png
 ./humans-south/female/a/clothed/upperarm-R.png
@@ -144,6 +151,8 @@
 ./lizardfolk/female/a/clothed/upperarm-R.png
 ./lizardfolk/male/a/clothed/calf-L.png
 ./lizardfolk/male/a/clothed/calf-R.png
+./lizardfolk/male/a/clothed/foot-bare-L.png
+./lizardfolk/male/a/clothed/foot-bare-R.png
 ./lizardfolk/male/a/clothed/forearm-L.png
 ./lizardfolk/male/a/clothed/forearm-R.png
 ./lizardfolk/male/a/clothed/hand-L.png
@@ -188,6 +197,8 @@
 ./sheepfolk/female/a/clothed/hand-R.png
 ./sheepfolk/female/a/clothed/head.png
 ./sheepfolk/female/a/clothed/torso.png
+./sheepfolk/female/a/clothed/upperarm-L.png
+./sheepfolk/female/a/clothed/upperarm-R.png
 ./sheepfolk/male/a/clothed/calf-L.png
 ./sheepfolk/male/a/clothed/calf-R.png
 ./sheepfolk/male/a/clothed/forearm-L.png
