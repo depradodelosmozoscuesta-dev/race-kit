@@ -26,3 +26,4 @@
 - 2026-09-13w: sheepfolk F a calf L/R (mirror; hoof kept as part of calf limb; no separate foot-bare — ambiguous); human south M a hand L/R (mirror); orc F a hand L/R (mirror; green/olive via rembg alpha + original RGB). rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
 - 2026-09-13x: orc M a hand L/R (mirror; green/olive via rembg alpha + original RGB); hobbit F a foot-bare L/R (mirror); sheepfolk M a hand L/R (mirror). rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
 - 2026-09-13y: lizardfolk F a calf L/R (mirror; green scales via rembg alpha + original RGB); human north M a forearm L/R (mirror). rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
+- 2026-09-13z: elf F a hand L/R (mirror; forearm cropped at wrist via principal-axis width min); hobbit M a calf L/R (mirror; wool sock kept); human south F a upperarm L/R (mirror; woven armband kept). rembg u2net alpha + original RGB composite. eje largo 512. RGBA.
