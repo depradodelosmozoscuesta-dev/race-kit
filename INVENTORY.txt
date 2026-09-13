@@ -18,6 +18,7 @@
 ./_catalog/preview-batch-sep13ar.png
 ./_catalog/preview-batch-sep13as.png
 ./_catalog/preview-batch-sep13at.png
+./_catalog/preview-batch-sep13au.png
 ./_catalog/preview-batch-sep13b.png
 ./_catalog/preview-batch-sep13c.png
 ./_catalog/preview-batch-sep13d-elf-male.png
@@ -73,6 +74,8 @@
 ./elves/female/b/clothed/hand-L.png
 ./elves/female/b/clothed/hand-R.png
 ./elves/female/b/clothed/head.png
+./elves/female/b/clothed/thigh-L.png
+./elves/female/b/clothed/thigh-R.png
 ./elves/female/b/clothed/torso.png
 ./elves/female/b/clothed/upperarm-L.png
 ./elves/female/b/clothed/upperarm-R.png
@@ -217,6 +220,8 @@
 ./humans-south/female/b/clothed/hand-L.png
 ./humans-south/female/b/clothed/hand-R.png
 ./humans-south/female/b/clothed/head.png
+./humans-south/female/b/clothed/thigh-L.png
+./humans-south/female/b/clothed/thigh-R.png
 ./humans-south/female/b/clothed/torso.png
 ./humans-south/female/b/clothed/upperarm-L.png
 ./humans-south/female/b/clothed/upperarm-R.png
@@ -239,6 +244,8 @@
 ./humans-south/male/b/clothed/hand-L.png
 ./humans-south/male/b/clothed/hand-R.png
 ./humans-south/male/b/clothed/head.png
+./humans-south/male/b/clothed/thigh-L.png
+./humans-south/male/b/clothed/thigh-R.png
 ./humans-south/male/b/clothed/torso.png
 ./humans-south/male/b/clothed/upperarm-L.png
 ./humans-south/male/b/clothed/upperarm-R.png
@@ -261,6 +268,8 @@
 ./lizardfolk/female/b/clothed/hand-L.png
 ./lizardfolk/female/b/clothed/hand-R.png
 ./lizardfolk/female/b/clothed/head.png
+./lizardfolk/female/b/clothed/thigh-L.png
+./lizardfolk/female/b/clothed/thigh-R.png
 ./lizardfolk/female/b/clothed/torso.png
 ./lizardfolk/female/b/clothed/upperarm-L.png
 ./lizardfolk/female/b/clothed/upperarm-R.png
@@ -353,6 +362,8 @@
 ./sheepfolk/female/b/clothed/hand-L.png
 ./sheepfolk/female/b/clothed/hand-R.png
 ./sheepfolk/female/b/clothed/head.png
+./sheepfolk/female/b/clothed/thigh-L.png
+./sheepfolk/female/b/clothed/thigh-R.png
 ./sheepfolk/female/b/clothed/torso.png
 ./sheepfolk/female/b/clothed/upperarm-L.png
 ./sheepfolk/female/b/clothed/upperarm-R.png
@@ -375,6 +386,8 @@
 ./sheepfolk/male/b/clothed/hand-L.png
 ./sheepfolk/male/b/clothed/hand-R.png
 ./sheepfolk/male/b/clothed/head.png
+./sheepfolk/male/b/clothed/thigh-L.png
+./sheepfolk/male/b/clothed/thigh-R.png
 ./sheepfolk/male/b/clothed/torso.png
 ./sheepfolk/male/b/clothed/upperarm-L.png
 ./sheepfolk/male/b/clothed/upperarm-R.png
