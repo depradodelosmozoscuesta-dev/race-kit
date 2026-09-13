@@ -1,0 +1,11 @@
+/workspace/race-kit/elves/female/a/clothed/hand-L.png
+/workspace/race-kit/elves/female/a/clothed/hand-R.png
+/workspace/race-kit/elves/female/a/clothed/head.png
+/workspace/race-kit/elves/female/a/clothed/thigh-L.png
+/workspace/race-kit/elves/female/a/clothed/thigh-R.png
+/workspace/race-kit/elves/female/a/clothed/torso.png
+/workspace/race-kit/elves/female/a/clothed/upperarm-L.png
+/workspace/race-kit/elves/female/a/clothed/upperarm-R.png
+/workspace/race-kit/elves/female/a/underwear/thigh-L.png
+/workspace/race-kit/elves/female/a/underwear/thigh-R.png
+/workspace/race-kit/elves/female/a/underwear/torso.png
