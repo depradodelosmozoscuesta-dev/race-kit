@@ -7,6 +7,7 @@
 ./_catalog/preview-batch-sep13h.png
 ./_catalog/preview-batch-sep13i.png
 ./_catalog/preview-batch-sep13j.png
+./_catalog/preview-batch-sep13k.png
 ./_catalog/preview-elves-female-a.png
 ./_catalog/preview-feet-proportion.png
 ./elves/female/a/clothed/calf-L.png
@@ -38,6 +39,8 @@
 ./elves/male/a/clothed/calf-R.png
 ./elves/male/a/clothed/foot-bare-L.png
 ./elves/male/a/clothed/foot-bare-R.png
+./elves/male/a/clothed/foot-heels-L.png
+./elves/male/a/clothed/foot-heels-R.png
 ./elves/male/a/clothed/forearm-L.png
 ./elves/male/a/clothed/forearm-R.png
 ./elves/male/a/clothed/hand-L.png
